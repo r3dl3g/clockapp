@@ -5,9 +5,8 @@ This is a simple demonstration how to use guipp for developing own applications.
 
 To try it, do the following
 
-- git clone https://github.com/r3dl3g/clockapp.git clockapp
+- git clone --recurse-submodules https://github.com/r3dl3g/clockapp.git clockapp
 - cd clockapp
-- git submodule update --init --recursive
 - mkdir build
 - cd build
 - cmake ..
