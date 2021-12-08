@@ -1,0 +1,3 @@
+[submodule "guipp"]
+	path = libs/guipp
+	url = ../guipp.git
